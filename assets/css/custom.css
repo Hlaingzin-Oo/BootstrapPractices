@@ -1,0 +1,67 @@
+.heading {
+  align-items: left;
+  float: left;
+}
+
+.nav {
+  min-width: 17rem;
+  width: 17rem;
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s;
+  z-index: 1;
+  background-color: #fff;
+  /* display:none; */
+}
+
+.nav-item {
+  top: 20px;
+  left: 0;
+}
+
+.navbar {
+  height: 60px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboardcard {
+  background: #fff;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  height: 170px;
+  text-align: center;
+}
+
+.content-heading {
+  font-weight: bold;
+  font-size: larger;
+  color: rgb(10, 153, 10);
+}
+
+.d2heading {
+  font-weight: bold;
+  font-size: larger;
+  color: rgb(10, 153, 10);
+}
+.hline{
+  width: 1100px ;
+  box-shadow:0px 0px 0.1px rgba(0, 0, 0, 0.1);
+}
+
+.tablecard {
+  background: #fff;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  width: 1100px;
+  height: 400px;
+  text-align: center;
+}
+.dropdown{
+  position:relative;
+  
+}
+input{
+  float: right;
+}
